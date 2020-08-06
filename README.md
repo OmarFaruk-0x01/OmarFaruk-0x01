@@ -74,6 +74,14 @@ I am 18 years old. I am a FullStackDeveloper.I have two years exprience in this 
 
 <br />
 <br />
+
+## Recent Projects
+<p>
+<a href="https://github.com/OmarFaruk-0x01/Tony-Portfolio__Cloned"><img width="200" src="https://i.ibb.co/M5gsR01/Tony-Smith-Mockup.png" alt="Tony-Smith-Mockup" border="0"></a> <a href="https://github.com/OmarFaruk-0x01/Ryan-Adlard-Portfolio-Cloned"><img width="200"  src="https://i.ibb.co/DzdDQ04/MockUp.png" alt="MockUp"></a>  <a href="https://github.com/OmarFaruk-0x01/Leven-Resume-CV-Cloned"><img width="200" src="https://i.ibb.co/QQC0fZC/Laven-Resume-Mockup.png" alt="Laven-Resume-Mockup" border="0"></a>
+</p>
+
+
+
 <div><h3>My profile overview: </h3></div>
 
 ![Omar Faruk's Profile Overview](https://github-readme-stats.vercel.app/api?username=OmarFaruk-0x01&show_icons=true)
