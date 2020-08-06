@@ -81,7 +81,7 @@ I am 18 years old. I am a FullStackDeveloper.I have two years exprience in this 
 
 <div><h3>Most Used Languages In My Projects: </h3></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/OmarFaruk-0x01/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruk-0x01&layout=compact)](https://github.com/OmarFaruk-0x01/)
 
 <br />
 <br />
