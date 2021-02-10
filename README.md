@@ -4,7 +4,7 @@
 <div>
  <p>
    It's <a href="https://github.com/OmarFaruk-0x01"><b>Omar Faruk😁😁🖐🖐</b></a>.
-I am 18 years old. A FullStackDeveloper.I have two years exprience in this field and badly interstade in Android Developement, Web Developement and also in AI ML. Now I am taking Diploma Engineering in CSE (Computer Science).
+A FullStackDeveloper.I have two years exprience in this field and badly interstade in Android Developement, Web Developement and also in AI ML. Now I am taking Diploma Engineering in CSE (Computer Science).
   
 - 🔭 I’m currently working on Some WebApps for personal use
 - 🌱 I’m currently learning ReactJs, Flutter, Dart
