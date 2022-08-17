@@ -1,57 +1,16 @@
-<div>
-<h1>Assalamualikum</h1>
+# 💫 About Me:
+It's Omar Faruk.<br>A Husband, A Son, A Student,  and A Front-End Developer. I have 4 years of experience in the tech field and I am badly interested in Android Developement, Web Developement. Now I am working as a Front-End Developer in a Japanese Company and also taking a Diploma in CSE in Graphics Arts Institute, Dhaka, Bangladesh.
 
-<div>
- <p>
-   It's <a href="https://github.com/OmarFaruk-0x01"><b>Omar Faruk😁😁🖐🖐</b></a>.
-A FullStackDeveloper.I have two years exprience in this field and badly interstade in Android Developement, Web Developement and also in AI ML. Now I am taking Diploma Engineering in CSE (Computer Science).
-  
-- 🔭 I’m currently working on Some WebApps for personal use
-- 🌱 I’m currently learning ReactJs, Flutter, Dart
-- 👯 I’m looking to collaborate with Other Programmers
-- 🤔 I’m looking for help in Flutter UI Building
-- 💬 Ask me about ...
-    - Python Problems
-    - WebSite Developement
-    - JavaScript Problems
-- 😄 Pronouns: ...
-    - He / Him
-</h4>
-</div>
 
-### Languages and Tools:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-faruk-613874226) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@programmer.omar.dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17576724) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ProgrammerFaruk) 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<br />
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OmarFaruk-0x01&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OmarFaruk-0x01&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruk-0x01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## Recent Projects
-
-<p>
-<a href="https://github.com/OmarFaruk-0x01/Tony-Portfolio__Cloned"><img width="200" src="https://i.ibb.co/M5gsR01/Tony-Smith-Mockup.png" alt="Tony-Smith-Mockup" border="0"></a> <a href="https://github.com/OmarFaruk-0x01/Ryan-Adlard-Portfolio-Cloned"><img width="200"  src="https://i.ibb.co/DzdDQ04/MockUp.png" alt="MockUp"></a>  <a href="https://github.com/OmarFaruk-0x01/Leven-Resume-CV-Cloned"><img width="200" src="https://i.ibb.co/QQC0fZC/Laven-Resume-Mockup.png" alt="Laven-Resume-Mockup" border="0"></a>
-</p>
-
-<div><h3>My profile overview: </h3></div>
-
-![Omar Faruk's Profile Overview](https://github-readme-stats.vercel.app/api?username=OmarFaruk-0x01&show_icons=true)
-<br />
-<div><h3>Most Used Languages In My Projects: </h3></div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaruk-0x01&layout=compact)](https://github.com/OmarFaruk-0x01/)
-<br />
-<br />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=OmarFaruk-0x01)
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=OmarFaruk-0x01&icon=2&color=0)](https://visitcount.itsvg.in)
