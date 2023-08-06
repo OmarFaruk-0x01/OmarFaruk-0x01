@@ -39,7 +39,7 @@ Demo: https://github.com/OmarFaruk-0x01/Dictator
 #### Japaha Companies LTD  (Jun’2022 - present)
 1. Learning Management Site with optimistic UI and 3 Different Role-Based Dashboards.
 2. Job Portal with 3 Different Role-Based Dashboards and Pixel Perfect UI and SEO friendly with Custom OG image.
-DEMO: https://japa-ha.com/
+DEMO: https://dev.gakkou.xyz/
 3. Online Certification School with 3 Different Role-Based Dashboards and Pixel Perfect UI.
 DEMO: https://shikakuschool.com/
 4. 5 Static Landing Pages With Vite and Next Js and PHP.
