@@ -1,47 +1,53 @@
 # Omar Faruque
-Junior Developer | Typescript | Next.JS | React Js | React Native				
-
-programmer.omar.dev@gmail.com | https://dub.sh/omar | https://dub.sh/faruk
+## Frontend Developer | Typescript | Next.JS | React Js | React Native
+- Email: programmer.omar.dev@gmail.com
+- Portfolio: [https://dub.sh/omar](https://dub.sh/omar)
+- GitHub: [https://dub.sh/faruk](https://dub.sh/faruk)
 
 ## Cover Letter
-*I have four* years of non-professional experience and one year of professional experience as a Frontend Developer. I’m strictly focusing on the backend architecture, design patterns, and DSA. I have spent a lot of time learning advanced technologies and created a lot of personal projects with 1,401 commits in the last year. My Next target is to contribute to the open-source GoLang community.
-I worked on three different projects in my professional career. I designed and developed a JobPortal like BDJobs. ShikakusSchool is a Lightweight LMS site for a Japanese Company called Japaha Company LTD. I also implemented their CI/CD integration with Docker, Jenkins, and AWS EC2.
+With four years of non-professional experience and one year of professional experience as a Frontend Developer. My skills shine in designing smooth website functionality, elegant appearances, and efficient operation.
 
+I'm a dedicated learner, constantly exploring new technologies. I have honed my skills and expertise in backend architecture, design patterns, data structures and algorithms. I've completed numerous personal projects. My next goal is to contribute to the open-source GoLang community.
 
-## Open Source Project
-**Mongo-Backup:** This is a GoLang script for backing up MongoDB databases and pushing the backup files to AWS S3. It provides a command-line interface for specifying the MongoDB URI, database name, AWS S3 bucket details, and other options.
+In my professional journey, I've thrived in three distinct projects. I architected and developed a JobPortal akin to BDJobs. For Japaha Company LTD, I designed ShikakusSchool, a lightweight Learning Management System (LMS) site, and streamlined operations using Docker, Jenkins, and AWS EC2. 
 
-Visit: https://github.com/OmarFaruk-0x01/mongo-backup
+I'm enthusiastic about embracing new challenges and making meaningful contributions.
 
-**Umed Blog:** The blog website is made by Remix Js for the front-end, Express Js for the backend, and PostgreSQL for the database. Additionally, the website includes advanced features such as admin authentication, a custom build editor for admin, user profile, and search.
+## Open Source Projects
+### Mongo-Backup
+- Developed a GoLang script for automating MongoDB database backups and transferring them to AWS S3.
+- Provided a command-line interface for customizable MongoDB URI, database name, AWS S3 bucket integration, and more.
+- GitHub: [Mongo-Backup](https://github.com/OmarFaruk-0x01/mongo-backup)
 
-Demo: https://github.com/OmarFaruk-0x01/blog_project
+### Umed Blog
+- Crafted a dynamic blog website utilizing Remix Js for frontend, Express Js for backend, and PostgreSQL for the database.
+- Implemented advanced features, including admin authentication, custom build editor, user profiles, and search functionality.
+- Demo: [Umed Blog](https://github.com/OmarFaruk-0x01/blog_project)
 
-**EducationBoardResult:** It’s a mobile version of a Govt. Board Result Publishing website. This app can provide PDFs on the fly without any extra effort.
+### EducationBoardResult
+- Developed a mobile application version of a Government Board Result Publishing website.
+- Enabled on-the-fly PDF generation for enhanced user experience.
+- Demo: [EducationBoardResult](https://github.com/OmarFaruk-0x01/Education-Board-Results)
 
-Demo: https://github.com/OmarFaruk-0x01/Education-Board-Results
-
-**Dictator(Dictionary & Translator):** The audience of this app is IELTS students. This app can help those students to memorize and learn English in depth. This app works like a search engine. 
-
-Demo: https://github.com/OmarFaruk-0x01/Dictator
-
+### Dictator (Dictionary & Translator)
+- Designed a user-friendly app catering to IELTS students for comprehensive English language learning.
+- Functioned as a search engine, aiding users in memorizing and understanding English vocabulary.
+- Demo: [Dictator](https://github.com/OmarFaruk-0x01/Dictator)
 
 ## Skills
-
-**Languages:**  Python, Typescript, Javascript, ECMAScript(ES6), Node.js <br/>
-**Libraries:**  React, React-Native, Material-UI, Zustand, Formik, graphql, apollo-query, SWR, Tailwind-CSS, React-Bootstrap, Flask(Python), BeautifulSoup4(Python scrapper) <br/>
-**Frameworks:** Redux, Redux-toolkit,  Next.js,  Express.js, FastifyJs, Gin(Golang)<br/>
-**Tools:** Git, Github, Jenkins, AWS EC2, Docker, Docker Compose 
+- Languages: Python, Typescript, Javascript, Node.js, GoLang
+- Libraries: React, React-Native, Material-UI, Zustand, Formik, SWR, Tailwind-CSS, React-Bootstrap, Flask(Python), BeautifulSoup4(Python scrapper)
+- Frameworks: Redux, Redux-toolkit, Next.js, Express.js, FastifyJs, Gin(Golang)
+- Tools: Git, Github, Jenkins, AWS EC2, Docker, Docker Compose
 
 ## Work Experience
+### Frontend Developer
+**Japaha Company LTD** (Jun’2022 - Present)
+1. Developed a Learning Management Site with optimistic UI and three distinct Role-Based Dashboards.
+2. Designed a Job Portal featuring three Role-Based Dashboards, pixel-perfect UI, and SEO-friendly structure with custom OG image.
+   - Demo: [Job Portal](https://japa-ha.com/)
+3. Created an Online Certification School with three Role-Based Dashboards and meticulous UI design.
+   - Demo: [Certification School](https://shikakuschool.com/)
+4. Built five static Landing Pages using Vite, Next Js, and PHP.
 
-### Frontend Engineer
-#### Japaha Companies LTD  (Jun’2022 - present)
-1. Learning Management Site with optimistic UI and 3 Different Role-Based Dashboards.
-2. Job Portal with 3 Different Role-Based Dashboards and Pixel Perfect UI and SEO friendly with Custom OG image.
-DEMO: https://dev.gakkou.xyz/
-3. Online Certification School with 3 Different Role-Based Dashboards and Pixel Perfect UI.
-DEMO: https://shikakuschool.com/
-4. 5 Static Landing Pages With Vite and Next Js and PHP.
-
-**Technologies:** Next.JS, React, Zustand, BootstrapV5, ReactStrap, Typescript, Redux Toolkit, Redux-Saga, SWR, Material-UI, TailwindCSS, Formik
+Technologies: Next.JS, React, Zustand, BootstrapV5, ReactStrap, Typescript, Redux Toolkit, Redux-Saga, SWR, Material-UI, TailwindCSS, Formik
